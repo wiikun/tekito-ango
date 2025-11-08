@@ -6,5 +6,5 @@ ango.pyに引数1で元ファイル、引数2で暗号化後ファイル 途中�
 fukugo.pyも同じです  
 例:  
 `python ango.py moto ango abc`  
-`python hukugo.py ango hukugo abc`
+`python hukugo.py ango hukugo abc`  
 input key:
